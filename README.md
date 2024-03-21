@@ -33,7 +33,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGx4MXVnNm5kcnZnb2d0bmdxaGtncGtrOGVkZHkzbmo3c25wa2xibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gsad5RsZVhKsUDe/giphy.gif"  />
+
 
 ###
 
